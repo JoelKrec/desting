@@ -1,0 +1,17 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.4.0"
+  },
+  "type": "module"
+}
